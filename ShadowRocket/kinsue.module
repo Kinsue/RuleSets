@@ -1,0 +1,16 @@
+#!name=kinsue
+#!homepage=http://120.26.124.135:15536/kinsue/Rules
+
+[Rule]
+DOMAIN,zhihu.com,REJECT
+DOMAIN,www.zhihu.com,REJECT
+DOMAIN-SUFFIX,nodeseek.com,REJECT
+DOMAIN-SUFFIX,bilibili.com,REJECT
+DOMAIN-KEYWORD,instagram,REJECT
+DOMAIN-KEYWORK,porn,REJECT
+DOMAIN-SUFFIX,xvideos.com,REJECT
+DOMAIN-SUFFIX,v2ex.com,REJECT
+
+DOMAIN-SUFFIX,emby.wtf,PROXY
+DOMAIN-SUFFIX,emby.wtf,PROXY
+
