@@ -1,5 +1,5 @@
 #!name=kinsue
-#!homepage=http://120.26.124.135:15536/kinsue/Rules
+#!homepage=https://raw.githubusercontent.com/Kinsue/RuleSets/refs/heads/main/ShadowRocket/kinsue.module
 
 [Rule]
 DOMAIN,zhihu.com,REJECT
