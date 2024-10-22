@@ -1,5 +1,4 @@
 #!name=kinsue
-#!homepage=https://raw.githubusercontent.com/Kinsue/RuleSets/refs/heads/main/ShadowRocket/kinsue.module
 
 [Rule]
 DOMAIN,zhihu.com,REJECT
@@ -7,7 +6,7 @@ DOMAIN,www.zhihu.com,REJECT
 DOMAIN-SUFFIX,nodeseek.com,REJECT
 DOMAIN-SUFFIX,bilibili.com,REJECT
 DOMAIN-KEYWORD,instagram,REJECT
-DOMAIN-KEYWORK,porn,REJECT
+DOMAIN-KEYWORD,porn,REJECT
 DOMAIN-SUFFIX,xvideos.com,REJECT
 DOMAIN-SUFFIX,v2ex.com,REJECT
 
